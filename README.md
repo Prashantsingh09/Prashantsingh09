@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on github
-- 📫 reach me through my mail, it's prashantsingh.ps809@gmasil.com
+- 📫 reach me through my mail, it's prashantsingh.ps809@gmail.com
 
 <!---
 Prashantsingh09/Prashantsingh09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
